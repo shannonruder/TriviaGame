@@ -1,10 +1,11 @@
-# Crystals Collector game
+# 80s Movie Trivia Game
 This is a game using jquery code library. 
 
-Make an offering to Cleopatra. Help her solve the mysteries of crystal values in the ancient Egypt by simple matching crystals to add up to her crystal quota (randomized math value).
+Sit back and get ready to relive the 80s via this simple timed trivia multiple choice game. Read on to test your knowledge of 80s movie trivia and may the Force be with you.
 
-You must choose any combinations of crystals to match her target crystal quota. The value of the crystals will change with each game.  Click on one or more valuable jewels to match the target score for a win. If your score goes over the beginning target value, you lose the game. 
+You must choose one of the four reponses to the trivia question. The timer will reset at the beginning of each question.  At the end of the timer, you will be told whether or not your anser is corrent and you will be shown a photo with the correct response. If you do not answer a question wihtin the alloted time, you will be given an alert that says "Too bad, you ran out of time!" 
 
-Instructions: 1. Click on any gem to figure out their values. 2. Your goal is to continue adding gems until the total value matches the target score you are given. A successful collection of crystals will be considered a win. Collecting too many crystals that go over your given target value will cause you to lose the crystal collector's game.
+At the end of the game, you will be given a total of how many questions you answered correctly, incorrectly and how many were left unanswered. You will also be given a button for Restart. 
+
 
 
